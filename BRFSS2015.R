@@ -1,6 +1,6 @@
 #Diana Bowden
 #Data Analytics in R(DTSC-650-80)
-#Final Project: Correlation of Exercise, Weight and Work on prediction of Dementia.
+#Final Project: Correlation of Exercise, Weight and Marital Status on prediction of Dementia.
 
 #load required packages and files
 suppressPackageStartupMessages(library(tidyverse))
